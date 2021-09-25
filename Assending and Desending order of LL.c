@@ -91,7 +91,7 @@ void desrt()
 
 int main()
 {
-	int ch, count;	
+	int ch;
 	while(1)
 	{
 	printf("\nPress 1 to create, 2 to view, 3 for exit, 4 to sort in assending order, 5 to sort in desending order: ");
